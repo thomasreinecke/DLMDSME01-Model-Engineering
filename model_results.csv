@@ -1,0 +1,5 @@
+Model,Precision,Recall,F1-Score
+LR Baseline,0.8219,0.6122,0.7018
+LR + SMOTE,0.0585,0.9184,0.11
+XGB Baseline,0.9268,0.7755,0.8444
+XGB + SMOTE,0.2099,0.9082,0.341
