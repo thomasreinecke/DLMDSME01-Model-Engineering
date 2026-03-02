@@ -1,10 +1,10 @@
 # DLMDSME01: Model Engineering — Case Study
 
-This repository contains the technical implementation for the **DLMDSME01 Case Study: Detecting Fraudulent Credit Card Transactions**. 
+This repository contains the technical implementation for the course **DLMDSME01 - Case Study: Model Engineering** of IU - International University with specific focus on Task-1 **Detecting Fraudulent Credit Card Transactions**. 
 
 The project focuses on building robust, leakage-safe machine learning pipelines to handle extreme class imbalance (0.173% fraud rate). It evaluates a linear benchmark (Logistic Regression) against an ensemble challenger (XGBoost), utilizing synthetic oversampling (SMOTE) and threshold-moving techniques to optimize business-relevant metrics.
 
-## 🚀 Quick Start
+## Quick Start
 
 This project uses a `Makefile` to ensure a transparent and reproducible environment setup.
 
